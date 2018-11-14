@@ -22,9 +22,3 @@ function iLoveTheBeatles(number) {
   } while (number < 15);
   return thisArray
 }
-
-//function doWhileLoop(myarray) {
-//  do {myarray.shift()
-//  } while (myarray.length > 0)
-//  return myarray
-//}
